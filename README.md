@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="URL_DE_TU_LOGO" alt="Logo Data & Code" width="120"/>
+<p align="center" style="margin-top:-100px; margin-bottom:-100px;">
+  <img src="https://github.com/WnSg/WnSg/blob/main/logoWS_github.png" alt="Logo Data & Code" width="512" style="margin-top: -100px; margin-bottom: -100px;"/>
 </p>
+
 
 
 # 👋 Hola, soy Wolfran Silva
