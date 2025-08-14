@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="URL_DE_TU_LOGO" alt="Logo Data & Code" width="120"/>
+</p>
+
+
 # 👋 Hola, soy Wolfran Silva
 🚀 **Senior Software Development Engineer | Especialista en Salud Digital | Data Scientist**
 
