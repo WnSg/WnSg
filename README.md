@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0;">
-  <img src="https://github.com/WnSg/WnSg/blob/main/bannerWS_github.png" alt="Logo Data & Code" style="margin:0; padding:0;"/>
+  <img src="https://github.com/WnSg/WnSg/blob/main/logoWS_github.png" alt="Logo Data & Code" style="margin:0; padding:0;"/>
 </p>
 
 # 👋 Hola, soy Wolfran Silva
